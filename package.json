@@ -1,0 +1,23 @@
+{
+  "name": "gcp-cloudrun-cicd-terraform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "terraform",
+    "GCP",
+    "artifact registry",
+    "container registry",
+    "docker",
+    "cicd"
+  ],
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Rohit Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
